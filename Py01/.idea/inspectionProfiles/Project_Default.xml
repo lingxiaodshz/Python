@@ -5,6 +5,7 @@
       <option name="ignoredNames">
         <list>
           <option value="str" />
+          <option value="sum" />
         </list>
       </option>
     </inspection_tool>
